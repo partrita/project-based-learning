@@ -1,26 +1,26 @@
 ---
-name: "\U0001F680Feature or Enhancement"
-about: Suggest an Idea or Enhancement
+name: "🚀기능 또는 개선 사항"
+about: 아이디어 또는 개선 사항 제안
 ---
 
-### Description
+### 설명
 
-<!--- Provide a detailed description of the change or addition you are proposing -->
+<!--- 제안하는 변경 또는 추가 사항에 대한 자세한 설명을 제공하십시오 -->
 
-### Why
+### 이유
 
-<!--- Why is this change important to you? How would you use it? -->
+<!--- 이 변경 사항이 왜 중요합니까? 어떻게 사용하시겠습니까? -->
 
-<!--- How can it benefit other users? -->
+<!--- 다른 사용자에게 어떤 이점이 있습니까? -->
 
-### Possible Implementation & Open Questions
+### 가능한 구현 및 공개 질문
 
-<!--- Not obligatory, but suggest an idea for implementing addition or change -->
+<!--- 필수 사항은 아니지만 추가 또는 변경 사항을 구현하기 위한 아이디어를 제안하십시오 -->
 
-<!--- What still needs to be discussed -->
+<!--- 아직 논의해야 할 사항 -->
 
-### Is this something you're interested in working on?
+### 이 작업에 관심이 있으십니까?
 
-<!--- Yes or no -->
-- [ ] YES
-- [ ] NO
+<!--- 예 또는 아니오 -->
+- [ ] 예
+- [ ] 아니오

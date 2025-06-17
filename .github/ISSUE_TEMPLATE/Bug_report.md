@@ -1,23 +1,23 @@
 ---
-name: "\U0001F41BBug report"
-about: Report an Issue
+name: "🐛버그 신고"
+about: 문제 신고
 ---
 
-<!--- Provide a general summary of the issue in the Title above -->
+<!--- 위 제목에 문제에 대한 일반적인 요약을 제공하십시오 -->
 
-## Expected Behavior
-<!--- If you're suggesting a change/improvement, tell us how it should work -->
+## 예상되는 행동
+<!--- 변경/개선을 제안하는 경우 어떻게 작동해야 하는지 알려주십시오 -->
 
-## Current Behavior
-<!--- If suggesting a change/improvement, explain the difference from current behavior -->
+## 현재 행동
+<!--- 변경/개선을 제안하는 경우 현재 행동과의 차이점을 설명하십시오 -->
 
-## Possible Solution
-<!--- Not obligatory, but suggest a fix/reason -->
-<!--- or ideas how to implement the addition or change -->
+## 가능한 해결책
+<!--- 필수 사항은 아니지만 수정/이유를 제안하십시오 -->
+<!--- 또는 추가 또는 변경 사항을 구현하는 방법에 대한 아이디어 -->
 
-## Steps to Reproduce
-<!--- Provide a link to a live example -->
+## 재현 단계
+<!--- 실제 예제 링크를 제공하십시오 -->
 
-## Context [OPTIONAL]
-<!--- How has this issue affected you? What are you trying to accomplish? -->
-<!--- Providing context helps us come up with a solution that is most useful in the real world -->
+## 컨텍스트 [선택 사항]
+<!--- 이 문제가 귀하에게 어떤 영향을 미쳤습니까? 무엇을 달성하려고 하십니까? -->
+<!--- 컨텍스트를 제공하면 실제 세계에서 가장 유용한 솔루션을 찾는 데 도움이 됩니다 -->

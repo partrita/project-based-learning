@@ -1,27 +1,27 @@
-<!--- Provide a general summary of your changes in the Title above -->
+<!--- 위 제목에 변경 사항에 대한 일반적인 요약을 제공하십시오 -->
 
-## Description
-<!--- Describe your changes in detail -->
+## 설명
+<!--- 변경 사항을 자세히 설명하십시오 -->
 
-## Motivation and Context
-<!--- Why is this change required? What problem does it solve? -->
-<!--- If it fixes an open issue, please link to the issue here. -->
+## 동기 및 컨텍스트
+<!--- 이 변경이 필요한 이유는 무엇입니까? 어떤 문제를 해결합니까? -->
+<!--- 공개된 문제를 해결하는 경우 여기에 문제 링크를 추가하십시오. -->
 
-## How Has This Been Tested?
-<!--- Please describe in detail how you tested your changes. -->
-<!--- Include details of your testing environment, and the tests you ran to -->
-<!--- see how your change affects other areas of the code, etc. -->
+## 어떻게 테스트되었습니까?
+<!--- 변경 사항을 어떻게 테스트했는지 자세히 설명하십시오. -->
+<!--- 테스트 환경 및 실행한 테스트에 대한 세부 정보를 포함하여 -->
+<!--- 변경 사항이 코드의 다른 영역에 어떤 영향을 미치는지 확인하십시오. -->
 
-## Types of changes
-<!--- What types of changes does your code introduce? Put an `x` in all the boxes that apply: -->
-- [ ] Content Update (change which fixes an issue or updates an already existing submission)
-- [ ] New Article (change which adds functionality)
-- [ ] Documentation change
+## 변경 유형
+<!--- 코드가 어떤 유형의 변경 사항을 도입합니까? 해당하는 모든 상자에 `x`를 입력하십시오: -->
+- [ ] 콘텐츠 업데이트 (문제를 수정하거나 이미 존재하는 제출물을 업데이트하는 변경 사항)
+- [ ] 새 문서 (기능을 추가하는 변경 사항)
+- [ ] 문서 변경
 
-## Checklist:
-<!--- Go over all the following points, and put an `x` in all the boxes that apply. -->
-<!--- If you're unsure about any of these, don't hesitate to ask. We're here to help! -->
-- [ ] My code follows the code style of this project.
-- [ ] I have updated the documentation accordingly.
-- [ ] I have read the **CONTRIBUTING** document.
-- [ ] I have made checks to ensure URLs and other resources are valid
+## 체크리스트:
+<!--- 다음 모든 사항을 검토하고 해당하는 모든 상자에 `x`를 입력하십시오. -->
+<!--- 확실하지 않은 점이 있으면 주저하지 말고 문의하십시오. 도와드리겠습니다! -->
+- [ ] 제 코드는 이 프로젝트의 코드 스타일을 따릅니다.
+- [ ] 문서를 그에 따라 업데이트했습니다.
+- [ ] **CONTRIBUTING** 문서를 읽었습니다.
+- [ ] URL 및 기타 리소스가 유효한지 확인했습니다.

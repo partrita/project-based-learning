@@ -1,22 +1,22 @@
-# Contribution guidelines
+# 기여 가이드라인
 
-Before making a pull request, please make sure of the following:
-* The tutorial(s) you want to add do not already exist
-* Your tutorial is correctly placed under the appropriate language/technology
-* Improvements of the same tutorial are encouraged!
-* The pull request needs to have a descriptive title
-* If the language/technology of your tutorial does not exist, feel free to create a new entry in table of contents
-* Make a separate pull request for each of the tutorial
-* Use the following format `[Title](link_to_tutorial)`
-* If your tutorial is a multi-part series, use the following format:
+풀 리퀘스트를 작성하기 전에 다음 사항을 확인하십시오:
+* 추가하려는 튜토리얼이 이미 존재하지 않는지 확인합니다.
+* 튜토리얼이 올바른 언어/기술 아래에 배치되었는지 확인합니다.
+* 동일한 튜토리얼의 개선은 권장됩니다!
+* 풀 리퀘스트에는 설명적인 제목이 있어야 합니다.
+* 튜토리얼의 언어/기술이 존재하지 않는 경우 목차에 새 항목을 자유롭게 만드십시오.
+* 각 튜토리얼에 대해 별도의 풀 리퀘스트를 작성하십시오.
+* 다음 형식을 사용하십시오: `[제목](튜토리얼_링크)`
+* 튜토리얼이 여러 부분으로 구성된 시리즈인 경우 다음 형식을 사용하십시오:
     ```
-        * Title
-            * [Part 1](link_to_part_1)
-            * [Part 2](link_to_part_2)
+        * 제목
+            * [1부](1부_링크)
+            * [2부](2부_링크)
     ```
-* Check the spelling and grammar
-* Do the work, write good commit messages, and read the CONTRIBUTING file if there is one
-* Remove any trailing whitespaces
-* Links must be pointing straight to the tutorials, no URL shorteners. However, if the URL is too long (more than 80 characters), Google URL Shortener is allowed
+* 철자 및 문법을 확인하십시오.
+* 작업을 수행하고 좋은 커밋 메시지를 작성하고 CONTRIBUTING 파일이 있는 경우 읽으십시오.
+* 후행 공백을 제거하십시오.
+* 링크는 URL 단축기가 아닌 튜토리얼로 직접 연결되어야 합니다. 그러나 URL이 너무 길면 (80자 이상) Google URL Shortener가 허용됩니다.
 
-Thank you for your suggestions! If you think there is anything to improve with the guidelines, please contact me at <tuvtran97@gmail.com>
+제안해 주셔서 감사합니다! 가이드라인을 개선할 사항이 있다고 생각되면 <tuvtran97@gmail.com>으로 저에게 연락하십시오.
